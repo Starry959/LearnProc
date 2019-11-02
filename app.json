@@ -1,6 +1,12 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/about/about"
-  ]
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#C0D9D9",
+    "navigationBarTitleText": "备忘录",
+    "navigationBarTextStyle": "#fff"
+  }
 }
